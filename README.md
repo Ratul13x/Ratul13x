@@ -54,11 +54,11 @@ I design and ship end-to-end systems — from full-stack web applications to pro
 **Data Science & NLP**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-*Matplotlib, Seaborn, EDA, Feature Engineering, Text Classification, Sentiment Analysis, Model Benchmarking (Accuracy / Precision / Recall / F1 / ROC-AUC)*
+*Matplotlib, Seaborn, EDA, Feature Engineering, Text Classification, Sentiment Analysis, Model Benchmarking*
 
 **Computer Graphics & Gaming**
 ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-0D0D0D?style=flat&logo=opengl&logoColor=white)
-*3D Graphics, Real-time Physics, Collision Detection, Procedural Generation, Game AI / Pathfinding*
+*3D Graphics, Real-time Physics, Collision Detection, Procedural Generation, Game AI*
 
 **Tools & Environments**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
