@@ -23,10 +23,15 @@ I build full-stack web apps and deep learning systems. My thesis focuses on non-
 
 **Web — Backend & Frontend**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+
+**Database & Real-time**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white)
 
 **ML & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -37,15 +42,22 @@ I build full-stack web apps and deep learning systems. My thesis focuses on non-
 
 *Also: Attention U-Net, Swin Transformer, ResNet50, BiLSTM, BERT, VAE, SMOTE, TF-IDF, Medical Image Analysis*
 
-**Data Science**
+**Data Science & NLP**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-*Matplotlib, Seaborn, EDA, Feature Engineering*
+*Matplotlib, Seaborn, EDA, Feature Engineering, NLTK, Text Classification*
+
+**Graphics & Gaming**
+![PyOpenGL](https://img.shields.io/badge/PyOpenGL-0D0D0D?style=flat&logo=opengl&logoColor=white)
+*3D Graphics, Game Physics, Collision Detection, Procedural Generation, Enemy AI*
+
+**Notebooks & Environments**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -72,12 +84,12 @@ A full-featured hostel mess management web app with multi-user authentication, r
 ### 🎮 [GeekBox3x — Community Platform for Tech Enthusiasts](https://geekbox3.onrender.com)
 *Solo Developer · Dec 2025*
 A deployed full-stack community platform for gaming, mechanical keyboard, audiophile, and smart home enthusiasts. Built content discovery and community discussion features with a React frontend an[...]
-`React.js` `Node.js` `REST API` `Render`
+`React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Render`
 
 ### 🧠 [Suicide Risk Prediction — NLP & Machine Learning](https://github.com/Ratul13x/Suicide-Prediction-BERT-and-ML)
 *Solo Developer · Dec 2025*
 A complete NLP text classification pipeline on 232,000+ labeled samples using BERT embeddings and TF-IDF vectorization. Benchmarked Logistic Regression, Random Forest, KNN, and BERT-based transfor[...]
-`Python` `BERT` `scikit-learn` `Pandas` `Matplotlib`
+`Python` `BERT` `scikit-learn` `Pandas` `Matplotlib` `Jupyter`
 
 ### 🎵 [VAE for Music Analysis & Generation](https://github.com/Ratul13x/BulletFrenzy_BRACU)
 *University Project (CSE425) · Fall 2025*
@@ -86,12 +98,12 @@ A Variational Autoencoder trained to learn latent representations of music audio
 
 ### 🔫 [BulletFrenzy — 3D OpenGL Game](https://github.com/Ratul13x/BulletFrenzy_BRACU)
 *University Project · Apr 2025*
-A 3D first/third-person shooter built from scratch with OpenGL — featuring 3D transformations, enemy AI with pathfinding, real-time bullet physics, and collision detection in a procedurally tile[...]
+A 3D first/third-person shooter built from scratch with PyOpenGL — featuring 3D transformations, enemy AI with pathfinding, real-time bullet physics, and collision detection in a procedurally tile[...]
 `Python` `PyOpenGL` `NumPy` `freeglut`
 
 ### 🚦 [Green Light Red Light — Squid Game 3D](https://github.com/Ratul13x/Ratul13x-Green-RedLight-SquidGame)
 *Solo Developer · Apr 2025*
-A fully immersive 3D implementation of the iconic Red Light, Green Light game from Squid Game with advanced game mechanics and multiplayer NPC simulation. Features a challenging multi-level progression system with dynamic difficulty scaling, realistic 3D graphics with OpenGL, and AI-driven NPC competitors. Players navigate procedurally-generated obstacle courses while evading a rotating spotter during "red light" phases. Supports both third-person and first-person camera views with smooth camera transitions controlled via arrow keys. Includes 5 progressively challenging levels with increasing game length, obstacles, and enemy speeds.
+A fully immersive 3D implementation of the iconic Red Light, Green Light game from Squid Game with advanced game mechanics and multiplayer NPC simulation. Features a challenging multi-level progre[...]
 `Python` `PyOpenGL` `NumPy` `freeglut` `3D Graphics` `Game AI` `Real-time Physics`
 
 ### 🛒 [BRACUThrifters — Student Marketplace](https://github.com/Ratul13x/BRACUThrifters)
